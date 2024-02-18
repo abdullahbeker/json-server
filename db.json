@@ -1,15 +1,4 @@
 {
-  "renewal": [
-    {
-      "productId": "test",
-      "reason": "renewal",
-      "id": "9609"
-    },
-    {
-      "id": "e7ac",
-      "productId": "test123",
-      "reason": "renewal"
-    }
-  ],
+  "renewal": [],
   "product": []
 }
